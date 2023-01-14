@@ -1,3 +1,3 @@
 # Web Scraping
 
-A Repository about Web Scraping
+A Repository for Web Scraping notes
