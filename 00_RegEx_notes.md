@@ -8,7 +8,7 @@ it is different from [A-z] because there are characters fall between Z and a in 
 
 
 ## A sequence of numbers of certain digits (eg. 4)
-[0-9]{'number of digits'}
+[0-9]{'number of digits'}<br>
   eg. [0-9]{4}
 
 
@@ -18,19 +18,19 @@ it is different from [A-z] because there are characters fall between Z and a in 
 
 ## () making a named group / object
 ### Names for capturing groups are sequent numbers by default
-  eg. 07/16 2022 -> 2022-07-16
-    FIND: ([0-9]{2})/([0-9]{2}) ([0-9]{4})
+  eg. 07/16 2022 -> 2022-07-16<br>
+    FIND: ([0-9]{2})/([0-9]{2}) ([0-9]{4})<br>
     REPLACE: $3-$1-$2
     
 ### Customize the name for a group
-  eg. "w.stevens@randatmail.com" -> steven
-    FIND: "([a-z]).(?<name>[a-z]+)@(.+?)"
+  eg. "w.stevens@randatmail.com" -> steven<br>
+    FIND: "([a-z]).(?<name>[a-z]+)@(.+?)"<br>
     REPLACES: $+{name}
 
 
 ## ? for non-greeedy expressions
-  eg. Extract email address
-  FIND: .+?([^,]+@[^,]+).+
+  eg. Extract email address<br>
+  FIND: .+?([^,]+@[^,]+).+<br>
   REPLACE: $1
   
   
