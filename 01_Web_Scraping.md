@@ -8,7 +8,7 @@ Select class "col-md-6" (not unique)
   inside of the class, select the first "p"
   
   
-Example - TigerDirector:
+### Example - TigerDirector:
 https://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1163565&CatId=4935&csid=_86
 Monitor on the price of the laptop
 1. go to the "Elements" panel
