@@ -8,9 +8,9 @@ Select class "col-md-6" (not unique)
   inside of the class, select the first "p"
   
   
-### Example - TigerDirector:
+### CASE: TigerDirector
 https://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1163565&CatId=4935&csid=_86
-Monitor on the price of the laptop
+*Monitor on the price of the laptop*
 1. go to the "Elements" panel
 2. use the mouse icon on the top left corner
 3. hover on the price
@@ -28,8 +28,21 @@ The content of delivered by the website varies if the request information (accep
 ### Selector
 - div.cdf <- classes
 - div#dfg <- ID
-- div: contains('text')
+- div:contains('text')
+- div:has('text')
+- div:not('text')
+- a['href'] <- attribute
+- body p <- ancestor child
+
+*Some website change / randomize the class name. -> Look for tags that remain the same for a longer preriod. eg. h1, h2, ...*
+Counting headers is better than counting divs
+
+Close a window to prevent cookies retaining
 
 
+### CASE: Shanghai Air Pollution
+https://aqicn.org/city/shanghai
+
+*Goal: Retrieve hourly air pollution parameters*
 
 
