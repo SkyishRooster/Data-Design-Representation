@@ -10,6 +10,7 @@ Select class "col-md-6" (not unique)
   
 ### CASE: TigerDirector
 https://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1163565&CatId=4935&csid=_86
+
 *Monitor on the price of the laptop*
 1. go to the "Elements" panel
 2. use the mouse icon on the top left corner
@@ -44,5 +45,5 @@ Close a window to prevent cookies retaining
 https://aqicn.org/city/shanghai
 
 *Goal: Retrieve hourly air pollution parameters*
-
+1. select div.aqiwidget-table-x
 
