@@ -45,5 +45,9 @@ Close a window to prevent cookies retaining
 https://aqicn.org/city/shanghai
 
 *Goal: Retrieve hourly air pollution parameters*
-1. select div.aqiwidget-table-x
+1. Select whatever you are interested in; 
+      eg. div.aqiwidget-table-x
+2. Create an infinite loop for requesting the website automatically;
+3. IMPORTANT: Put pause time (in seconds);
+4. Save the output into a csv file
 
