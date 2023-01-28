@@ -71,9 +71,16 @@ https://aqicn.org/city/shanghai
 **Everything goes around with cookies**
 - It's the server that set cookies to our browser
 *In the html file of the website:*
-- login -> the informatin comes from "form" (action, method, name, ...)
+- login -> the informatin is stored in element "form" (action, method, name, ...)
 - "input" -> deliver key-value pairs ("name", "value") such as "referer", "mode", "username", "password", "token", "submit", ...
         - input type: 
             - "hidden" <- invisible elements;
             - "text" <- visiable text;
             - "password" <- concealed text;
+
+
+*Every website support javascripts:*
+Usecase examples:
+1. Amazon shopping cart update without the whole page reload
+2. Facebook more feeds loading without the whole page reload
+- Javascripts send tiny updates to the server, empowering dynamic page loading
