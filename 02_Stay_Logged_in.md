@@ -52,6 +52,8 @@ Two-stage request is required when random generalized login info is also require
 1. install chrome driver
 2. import selenium
 3. using selenium is an easy way to communicate with the browser (remote controlling a browser)
+4. However, you need to debug much more (update the version of chrome driver, changes in the website design, ...)
+
 
 ***set up the driver***
 ```
