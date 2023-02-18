@@ -29,4 +29,5 @@ Primary key – which in MySQL can be identical to an index – is something lik
 5. "High performance, High availability"
 6. Auto-scaling
 
-
+### CRUD
+1. 
