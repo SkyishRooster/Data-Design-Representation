@@ -10,4 +10,4 @@ This is a repository for storing class notes and projects for the WebScraping cl
 6. Store data into MongoDB
 7. Application of MapReduce in MongoDB
 ### Group Project folder contains the report, code, and the database generated
-The group project is a comprehensive project regarding pulling the top activities in the top 15 tourist cities in the US from getyourguide.com
+The group project is a comprehensive project regarding pulling the top activities in the top 15 tourist cities in the US from [getyourguide.com]
