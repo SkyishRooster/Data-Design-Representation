@@ -1,7 +1,7 @@
 # WebScraping--UCDavis
-This is a repository for storing class notes, homework projects, and individual projects of the Web Scraping class of MSBA program at UC Davis.
+This is a repository for storing class notes and projects for the WebScraping class
 ### Class Notes include markdown files that were documented during lectures
-### Homework Projects are the seven homework projects, topics including:
+### Topics of projects include:
 1. Regular Expression
 2. WebScraping Basics
 3. Manage Scraped Page Files from Websites
