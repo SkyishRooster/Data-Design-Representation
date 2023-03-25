@@ -1,5 +1,3 @@
-Please supply the regex search + replace terms:
-
 1. to find all IP addresses (e.g., "46.60.226.75" should match)
 
 FIND: [0-9]+\.[0-9]+\.[0-9]+\.[0-9]+
