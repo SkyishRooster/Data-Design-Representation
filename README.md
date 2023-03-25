@@ -1,4 +1,4 @@
-# WebScraping--UCDavis
+# WebScraping
 This is a repository for storing class notes and projects for the WebScraping class
 ### Class Notes include markdown files that were documented during lectures
 ### Topics of projects include:
