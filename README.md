@@ -1,7 +1,7 @@
 # WebScraping
 This is a repository for storing class notes and projects for the WebScraping class
 ### Class Notes include markdown files that were documented during lectures
-### Topics of projects include:
+### Projects folder contains seven topic project and a comprehensive project. Topics of projects include:
 1. Regular Expression
 2. WebScraping Basics
 3. Manage Scraped Page Files from Websites
